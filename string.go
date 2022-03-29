@@ -12,4 +12,5 @@ func main() {
 	// için prefix olarak adlandırılır. Prefix var mı diye ?
 	fmt.Println(strings.HasSuffix("test.rar", "rar")) // dosya uzantısı var mı ?
 	fmt.Println(strings.Index("test", "s"))           // s harfi test içinde kaçıncı index ?
+
 }
